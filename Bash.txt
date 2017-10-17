@@ -56,3 +56,4 @@ export PS1="\n\[\e[36m\]\w\[\e[m\] \`parse_git_branch\` \n\[\e[41m\]\`nonzero_re
 alias Calc= "cd ~/Desktop/School/prework-capstone/Calculator"
 alias HW= "cd ~/Desktop/School/Homework"
 alias CW= "cd ~/Desktop/School/classroomWork"
+alias
